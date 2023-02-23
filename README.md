@@ -28,3 +28,8 @@ To see samples of code deployable as a Function (FaaS) experience, visit the [sa
 ## Deploying
 
 Please see [DEPLOYING.md](DEPLOYING.md) on how to build, deploy, and test your newly built function.
+
+
+## Creating the Namespace
+
+Run the namespace.sh script to create the 
